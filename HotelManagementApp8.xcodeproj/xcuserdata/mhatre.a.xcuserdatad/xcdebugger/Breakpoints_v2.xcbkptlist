@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HotelManagementApp8/CreateCustomerTableViewController.swift"
+            timestampString = "544345894.239005"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "CreateCustomerTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelManagementApp8.CreateCustomerTableViewController.backBtn.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UINavigationBar&gt;"
+                  moduleName = "HotelManagementApp8"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mhatre.a/Desktop/HotelManagementApp8/HotelManagementApp8/CreateCustomerTableViewController.swift"
+                  timestampString = "544345367.579339"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelManagementApp8.CreateCustomerTableViewController.backBtn.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UINavigationBar&gt;"
+                  moduleName = "HotelManagementApp8"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mhatre.a/Desktop/HotelManagementApp8/HotelManagementApp8/CreateCustomerTableViewController.swift"
+                  timestampString = "544345367.58297"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelManagementApp8.CreateCustomerTableViewController.init(style: __C.UITableViewStyle) -&gt; HotelManagementApp8.CreateCustomerTableViewController"
+                  moduleName = "HotelManagementApp8"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mhatre.a/Desktop/HotelManagementApp8/HotelManagementApp8/CreateCustomerTableViewController.swift"
+                  timestampString = "544345367.587133"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelManagementApp8.CreateCustomerTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; HotelManagementApp8.CreateCustomerTableViewController"
+                  moduleName = "HotelManagementApp8"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mhatre.a/Desktop/HotelManagementApp8/HotelManagementApp8/CreateCustomerTableViewController.swift"
+                  timestampString = "544345367.590138"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelManagementApp8.CreateCustomerTableViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;HotelManagementApp8.CreateCustomerTableViewController&gt;"
+                  moduleName = "HotelManagementApp8"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mhatre.a/Desktop/HotelManagementApp8/HotelManagementApp8/CreateCustomerTableViewController.swift"
+                  timestampString = "544345367.595242"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "46">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HotelManagementApp8/BookingStep1ViewController.swift"
+            timestampString = "545018848.143509"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "BookingStep1ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
